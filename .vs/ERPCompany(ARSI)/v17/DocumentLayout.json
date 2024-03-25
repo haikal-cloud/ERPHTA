@@ -1,0 +1,362 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E122A8FB-D30F-4E21-A10A-1F85E6A6D888}|ERPCompany(ARSI)\\ERPCompany(ARSI).csproj|c:\\users\\fikri haikal\\source\\repos\\erpcompany(arsi)\\erpcompany(arsi)\\uc_blockings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E122A8FB-D30F-4E21-A10A-1F85E6A6D888}|ERPCompany(ARSI)\\ERPCompany(ARSI).csproj|solutionrelative:erpcompany(arsi)\\uc_blockings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E122A8FB-D30F-4E21-A10A-1F85E6A6D888}|ERPCompany(ARSI)\\ERPCompany(ARSI).csproj|C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\erpcompany(arsi)\\uc_supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E122A8FB-D30F-4E21-A10A-1F85E6A6D888}|ERPCompany(ARSI)\\ERPCompany(ARSI).csproj|solutionrelative:erpcompany(arsi)\\uc_supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E122A8FB-D30F-4E21-A10A-1F85E6A6D888}|ERPCompany(ARSI)\\ERPCompany(ARSI).csproj|C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\erpcompany(arsi)\\uc_supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E122A8FB-D30F-4E21-A10A-1F85E6A6D888}|ERPCompany(ARSI)\\ERPCompany(ARSI).csproj|solutionrelative:erpcompany(arsi)\\uc_supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E122A8FB-D30F-4E21-A10A-1F85E6A6D888}|ERPCompany(ARSI)\\ERPCompany(ARSI).csproj|C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\erpcompany(arsi)\\uc_information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E122A8FB-D30F-4E21-A10A-1F85E6A6D888}|ERPCompany(ARSI)\\ERPCompany(ARSI).csproj|solutionrelative:erpcompany(arsi)\\uc_information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E122A8FB-D30F-4E21-A10A-1F85E6A6D888}|ERPCompany(ARSI)\\ERPCompany(ARSI).csproj|C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\erpcompany(arsi)\\uc_delivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E122A8FB-D30F-4E21-A10A-1F85E6A6D888}|ERPCompany(ARSI)\\ERPCompany(ARSI).csproj|solutionrelative:erpcompany(arsi)\\uc_delivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E122A8FB-D30F-4E21-A10A-1F85E6A6D888}|ERPCompany(ARSI)\\ERPCompany(ARSI).csproj|C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\erpcompany(arsi)\\uc_accounting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E122A8FB-D30F-4E21-A10A-1F85E6A6D888}|ERPCompany(ARSI)\\ERPCompany(ARSI).csproj|solutionrelative:erpcompany(arsi)\\uc_accounting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E122A8FB-D30F-4E21-A10A-1F85E6A6D888}|ERPCompany(ARSI)\\ERPCompany(ARSI).csproj|C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\erpcompany(arsi)\\formsuppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E122A8FB-D30F-4E21-A10A-1F85E6A6D888}|ERPCompany(ARSI)\\ERPCompany(ARSI).csproj|solutionrelative:erpcompany(arsi)\\formsuppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E122A8FB-D30F-4E21-A10A-1F85E6A6D888}|ERPCompany(ARSI)\\ERPCompany(ARSI).csproj|C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\erpcompany(arsi)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E122A8FB-D30F-4E21-A10A-1F85E6A6D888}|ERPCompany(ARSI)\\ERPCompany(ARSI).csproj|solutionrelative:erpcompany(arsi)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E122A8FB-D30F-4E21-A10A-1F85E6A6D888}|ERPCompany(ARSI)\\ERPCompany(ARSI).csproj|C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\erpcompany(arsi)\\uc_inpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E122A8FB-D30F-4E21-A10A-1F85E6A6D888}|ERPCompany(ARSI)\\ERPCompany(ARSI).csproj|solutionrelative:erpcompany(arsi)\\uc_inpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E122A8FB-D30F-4E21-A10A-1F85E6A6D888}|ERPCompany(ARSI)\\ERPCompany(ARSI).csproj|C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\erpcompany(arsi)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E122A8FB-D30F-4E21-A10A-1F85E6A6D888}|ERPCompany(ARSI)\\ERPCompany(ARSI).csproj|solutionrelative:erpcompany(arsi)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E122A8FB-D30F-4E21-A10A-1F85E6A6D888}|ERPCompany(ARSI)\\ERPCompany(ARSI).csproj|C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\erpcompany(arsi)\\formplus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E122A8FB-D30F-4E21-A10A-1F85E6A6D888}|ERPCompany(ARSI)\\ERPCompany(ARSI).csproj|solutionrelative:erpcompany(arsi)\\formplus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E122A8FB-D30F-4E21-A10A-1F85E6A6D888}|ERPCompany(ARSI)\\ERPCompany(ARSI).csproj|C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\erpcompany(arsi)\\formplus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E122A8FB-D30F-4E21-A10A-1F85E6A6D888}|ERPCompany(ARSI)\\ERPCompany(ARSI).csproj|solutionrelative:erpcompany(arsi)\\formplus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E122A8FB-D30F-4E21-A10A-1F85E6A6D888}|ERPCompany(ARSI)\\ERPCompany(ARSI).csproj|C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\erpcompany(arsi)\\uc_information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E122A8FB-D30F-4E21-A10A-1F85E6A6D888}|ERPCompany(ARSI)\\ERPCompany(ARSI).csproj|solutionrelative:erpcompany(arsi)\\uc_information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E122A8FB-D30F-4E21-A10A-1F85E6A6D888}|ERPCompany(ARSI)\\ERPCompany(ARSI).csproj|C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\erpcompany(arsi)\\formpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E122A8FB-D30F-4E21-A10A-1F85E6A6D888}|ERPCompany(ARSI)\\ERPCompany(ARSI).csproj|solutionrelative:erpcompany(arsi)\\formpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E122A8FB-D30F-4E21-A10A-1F85E6A6D888}|ERPCompany(ARSI)\\ERPCompany(ARSI).csproj|C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\erpcompany(arsi)\\formsuppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E122A8FB-D30F-4E21-A10A-1F85E6A6D888}|ERPCompany(ARSI)\\ERPCompany(ARSI).csproj|solutionrelative:erpcompany(arsi)\\formsuppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E122A8FB-D30F-4E21-A10A-1F85E6A6D888}|ERPCompany(ARSI)\\ERPCompany(ARSI).csproj|C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\erpcompany(arsi)\\formtransparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E122A8FB-D30F-4E21-A10A-1F85E6A6D888}|ERPCompany(ARSI)\\ERPCompany(ARSI).csproj|solutionrelative:erpcompany(arsi)\\formtransparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E122A8FB-D30F-4E21-A10A-1F85E6A6D888}|ERPCompany(ARSI)\\ERPCompany(ARSI).csproj|C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\erpcompany(arsi)\\formcontacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E122A8FB-D30F-4E21-A10A-1F85E6A6D888}|ERPCompany(ARSI)\\ERPCompany(ARSI).csproj|solutionrelative:erpcompany(arsi)\\formcontacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E122A8FB-D30F-4E21-A10A-1F85E6A6D888}|ERPCompany(ARSI)\\ERPCompany(ARSI).csproj|C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\erpcompany(arsi)\\formcontacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E122A8FB-D30F-4E21-A10A-1F85E6A6D888}|ERPCompany(ARSI)\\ERPCompany(ARSI).csproj|solutionrelative:erpcompany(arsi)\\formcontacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E122A8FB-D30F-4E21-A10A-1F85E6A6D888}|ERPCompany(ARSI)\\ERPCompany(ARSI).csproj|C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\erpcompany(arsi)\\formpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E122A8FB-D30F-4E21-A10A-1F85E6A6D888}|ERPCompany(ARSI)\\ERPCompany(ARSI).csproj|solutionrelative:erpcompany(arsi)\\formpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E122A8FB-D30F-4E21-A10A-1F85E6A6D888}|ERPCompany(ARSI)\\ERPCompany(ARSI).csproj|C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\erpcompany(arsi)\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E122A8FB-D30F-4E21-A10A-1F85E6A6D888}|ERPCompany(ARSI)\\ERPCompany(ARSI).csproj|solutionrelative:erpcompany(arsi)\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E122A8FB-D30F-4E21-A10A-1F85E6A6D888}|ERPCompany(ARSI)\\ERPCompany(ARSI).csproj|C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\erpcompany(arsi)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E122A8FB-D30F-4E21-A10A-1F85E6A6D888}|ERPCompany(ARSI)\\ERPCompany(ARSI).csproj|solutionrelative:erpcompany(arsi)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E122A8FB-D30F-4E21-A10A-1F85E6A6D888}|ERPCompany(ARSI)\\ERPCompany(ARSI).csproj|C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\erpcompany(arsi)\\formplus.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E122A8FB-D30F-4E21-A10A-1F85E6A6D888}|ERPCompany(ARSI)\\ERPCompany(ARSI).csproj|solutionrelative:erpcompany(arsi)\\formplus.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1168,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UC_Delivery.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\ERPCompany(ARSI)\\UC_Delivery.cs",
+              "RelativeDocumentMoniker": "ERPCompany(ARSI)\\UC_Delivery.cs",
+              "ToolTip": "C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\ERPCompany(ARSI)\\UC_Delivery.cs [Design]",
+              "RelativeToolTip": "ERPCompany(ARSI)\\UC_Delivery.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T08:28:17.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UC_Information.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\ERPCompany(ARSI)\\UC_Information.cs",
+              "RelativeDocumentMoniker": "ERPCompany(ARSI)\\UC_Information.cs",
+              "ToolTip": "C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\ERPCompany(ARSI)\\UC_Information.cs [Design]",
+              "RelativeToolTip": "ERPCompany(ARSI)\\UC_Information.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T02:13:24.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UC_Supplier.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\ERPCompany(ARSI)\\UC_Supplier.cs",
+              "RelativeDocumentMoniker": "ERPCompany(ARSI)\\UC_Supplier.cs",
+              "ToolTip": "C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\ERPCompany(ARSI)\\UC_Supplier.cs [Design]",
+              "RelativeToolTip": "ERPCompany(ARSI)\\UC_Supplier.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T08:27:58.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UC_Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\ERPCompany(ARSI)\\UC_Supplier.cs",
+              "RelativeDocumentMoniker": "ERPCompany(ARSI)\\UC_Supplier.cs",
+              "ToolTip": "C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\ERPCompany(ARSI)\\UC_Supplier.cs",
+              "RelativeToolTip": "ERPCompany(ARSI)\\UC_Supplier.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAowFUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T02:08:18.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UC_Blockings.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\ERPCompany(ARSI)\\UC_Blockings.cs",
+              "RelativeDocumentMoniker": "ERPCompany(ARSI)\\UC_Blockings.cs",
+              "ToolTip": "C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\ERPCompany(ARSI)\\UC_Blockings.cs [Design]",
+              "RelativeToolTip": "ERPCompany(ARSI)\\UC_Blockings.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T08:27:30.628Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UC_Accounting.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\ERPCompany(ARSI)\\UC_Accounting.cs",
+              "RelativeDocumentMoniker": "ERPCompany(ARSI)\\UC_Accounting.cs",
+              "ToolTip": "C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\ERPCompany(ARSI)\\UC_Accounting.cs [Design]",
+              "RelativeToolTip": "ERPCompany(ARSI)\\UC_Accounting.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T02:47:22.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "formSuppliers.cs",
+              "DocumentMoniker": "C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\ERPCompany(ARSI)\\formSuppliers.cs",
+              "RelativeDocumentMoniker": "ERPCompany(ARSI)\\formSuppliers.cs",
+              "ToolTip": "C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\ERPCompany(ARSI)\\formSuppliers.cs",
+              "RelativeToolTip": "ERPCompany(ARSI)\\formSuppliers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T05:42:33.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\ERPCompany(ARSI)\\Form1.cs",
+              "RelativeDocumentMoniker": "ERPCompany(ARSI)\\Form1.cs",
+              "ToolTip": "C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\ERPCompany(ARSI)\\Form1.cs [Design]",
+              "RelativeToolTip": "ERPCompany(ARSI)\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T07:57:28.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UC_InPayment.cs",
+              "DocumentMoniker": "C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\ERPCompany(ARSI)\\UC_InPayment.cs",
+              "RelativeDocumentMoniker": "ERPCompany(ARSI)\\UC_InPayment.cs",
+              "ToolTip": "C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\ERPCompany(ARSI)\\UC_InPayment.cs",
+              "RelativeToolTip": "ERPCompany(ARSI)\\UC_InPayment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T02:33:24.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\ERPCompany(ARSI)\\Form1.cs",
+              "RelativeDocumentMoniker": "ERPCompany(ARSI)\\Form1.cs",
+              "ToolTip": "C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\ERPCompany(ARSI)\\Form1.cs",
+              "RelativeToolTip": "ERPCompany(ARSI)\\Form1.cs",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAewJwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T01:32:18.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "formPlus.cs",
+              "DocumentMoniker": "C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\ERPCompany(ARSI)\\formPlus.cs",
+              "RelativeDocumentMoniker": "ERPCompany(ARSI)\\formPlus.cs",
+              "ToolTip": "C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\ERPCompany(ARSI)\\formPlus.cs",
+              "RelativeToolTip": "ERPCompany(ARSI)\\formPlus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T03:44:24.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "formPlus.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\ERPCompany(ARSI)\\formPlus.cs",
+              "RelativeDocumentMoniker": "ERPCompany(ARSI)\\formPlus.cs",
+              "ToolTip": "C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\ERPCompany(ARSI)\\formPlus.cs [Design]",
+              "RelativeToolTip": "ERPCompany(ARSI)\\formPlus.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T06:18:23.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UC_Information.cs",
+              "DocumentMoniker": "C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\ERPCompany(ARSI)\\UC_Information.cs",
+              "RelativeDocumentMoniker": "ERPCompany(ARSI)\\UC_Information.cs",
+              "ToolTip": "C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\ERPCompany(ARSI)\\UC_Information.cs",
+              "RelativeToolTip": "ERPCompany(ARSI)\\UC_Information.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAnwA4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T04:32:27.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormPopUp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\ERPCompany(ARSI)\\FormPopUp.cs",
+              "RelativeDocumentMoniker": "ERPCompany(ARSI)\\FormPopUp.cs",
+              "ToolTip": "C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\ERPCompany(ARSI)\\FormPopUp.cs [Design]",
+              "RelativeToolTip": "ERPCompany(ARSI)\\FormPopUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T06:49:59.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "formSuppliers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\ERPCompany(ARSI)\\formSuppliers.cs",
+              "RelativeDocumentMoniker": "ERPCompany(ARSI)\\formSuppliers.cs",
+              "ToolTip": "C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\ERPCompany(ARSI)\\formSuppliers.cs [Design]",
+              "RelativeToolTip": "ERPCompany(ARSI)\\formSuppliers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T06:10:19.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormTransparent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\ERPCompany(ARSI)\\FormTransparent.cs",
+              "RelativeDocumentMoniker": "ERPCompany(ARSI)\\FormTransparent.cs",
+              "ToolTip": "C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\ERPCompany(ARSI)\\FormTransparent.cs [Design]",
+              "RelativeToolTip": "ERPCompany(ARSI)\\FormTransparent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T07:23:08.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "formContacts.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\ERPCompany(ARSI)\\formContacts.cs",
+              "RelativeDocumentMoniker": "ERPCompany(ARSI)\\formContacts.cs",
+              "ToolTip": "C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\ERPCompany(ARSI)\\formContacts.cs [Design]",
+              "RelativeToolTip": "ERPCompany(ARSI)\\formContacts.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T01:38:46.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "formContacts.cs",
+              "DocumentMoniker": "C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\ERPCompany(ARSI)\\formContacts.cs",
+              "RelativeDocumentMoniker": "ERPCompany(ARSI)\\formContacts.cs",
+              "ToolTip": "C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\ERPCompany(ARSI)\\formContacts.cs",
+              "RelativeToolTip": "ERPCompany(ARSI)\\formContacts.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAnwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T01:39:24.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormPopUp.cs",
+              "DocumentMoniker": "C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\ERPCompany(ARSI)\\FormPopUp.cs",
+              "RelativeDocumentMoniker": "ERPCompany(ARSI)\\FormPopUp.cs",
+              "ToolTip": "C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\ERPCompany(ARSI)\\FormPopUp.cs",
+              "RelativeToolTip": "ERPCompany(ARSI)\\FormPopUp.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAEwBMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T07:08:56.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\ERPCompany(ARSI)\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ERPCompany(ARSI)\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\ERPCompany(ARSI)\\Form1.Designer.cs",
+              "RelativeToolTip": "ERPCompany(ARSI)\\Form1.Designer.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T04:32:00.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\ERPCompany(ARSI)\\Program.cs",
+              "RelativeDocumentMoniker": "ERPCompany(ARSI)\\Program.cs",
+              "ToolTip": "C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\ERPCompany(ARSI)\\Program.cs",
+              "RelativeToolTip": "ERPCompany(ARSI)\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T04:22:43.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "formPlus.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\ERPCompany(ARSI)\\formPlus.Designer.cs",
+              "RelativeDocumentMoniker": "ERPCompany(ARSI)\\formPlus.Designer.cs",
+              "ToolTip": "C:\\Users\\FIKRI HAIKAL\\source\\repos\\ERPCompany(ARSI)\\ERPCompany(ARSI)\\formPlus.Designer.cs",
+              "RelativeToolTip": "ERPCompany(ARSI)\\formPlus.Designer.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAADAAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T04:38:39.293Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
